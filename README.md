@@ -1,2 +1,1 @@
 # hangman
-Hangman game
